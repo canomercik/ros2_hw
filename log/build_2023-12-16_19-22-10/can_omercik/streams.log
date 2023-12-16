@@ -1,0 +1,41 @@
+[0.461s] Invoking command in '/home/can/ros2_hw/src/can_omercik': PYTHONPATH=/home/can/ros2_hw/build/can_omercik/prefix_override:/home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/can_omercik build --build-base /home/can/ros2_hw/build/can_omercik/build install --record /home/can/ros2_hw/build/can_omercik/install.log --install-scripts $base/lib/can_omercik --single-version-externally-managed
+[0.572s] running egg_info
+[0.573s] creating ../../build/can_omercik/can_omercik.egg-info
+[0.573s] writing ../../build/can_omercik/can_omercik.egg-info/PKG-INFO
+[0.573s] writing dependency_links to ../../build/can_omercik/can_omercik.egg-info/dependency_links.txt
+[0.573s] writing entry points to ../../build/can_omercik/can_omercik.egg-info/entry_points.txt
+[0.573s] writing requirements to ../../build/can_omercik/can_omercik.egg-info/requires.txt
+[0.573s] writing top-level names to ../../build/can_omercik/can_omercik.egg-info/top_level.txt
+[0.574s] writing manifest file '../../build/can_omercik/can_omercik.egg-info/SOURCES.txt'
+[0.592s] reading manifest file '../../build/can_omercik/can_omercik.egg-info/SOURCES.txt'
+[0.593s] writing manifest file '../../build/can_omercik/can_omercik.egg-info/SOURCES.txt'
+[0.593s] running build
+[0.593s] running build_py
+[0.593s] creating /home/can/ros2_hw/build/can_omercik/build
+[0.593s] creating /home/can/ros2_hw/build/can_omercik/build/lib
+[0.593s] creating /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+[0.593s] copying can_omercik/__init__.py -> /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+[0.593s] copying can_omercik/publisher_member_function.py -> /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+[0.593s] copying can_omercik/subscriber_member_function.py -> /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+[0.593s] running install
+[0.593s] running install_lib
+[0.594s] creating /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+[0.594s] copying /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik/__init__.py -> /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+[0.594s] copying /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik/publisher_member_function.py -> /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+[0.594s] copying /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik/subscriber_member_function.py -> /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+[0.594s] byte-compiling /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik/__init__.py to __init__.cpython-38.pyc
+[0.595s] byte-compiling /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[0.595s] byte-compiling /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[0.595s] running install_data
+[0.595s] creating /home/can/ros2_hw/install/can_omercik/share/ament_index
+[0.595s] creating /home/can/ros2_hw/install/can_omercik/share/ament_index/resource_index
+[0.595s] creating /home/can/ros2_hw/install/can_omercik/share/ament_index/resource_index/packages
+[0.595s] copying resource/can_omercik -> /home/can/ros2_hw/install/can_omercik/share/ament_index/resource_index/packages
+[0.596s] copying package.xml -> /home/can/ros2_hw/install/can_omercik/share/can_omercik
+[0.596s] running install_egg_info
+[0.596s] Copying ../../build/can_omercik/can_omercik.egg-info to /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik-0.0.0-py3.8.egg-info
+[0.597s] running install_scripts
+[0.606s] Installing listener script to /home/can/ros2_hw/install/can_omercik/lib/can_omercik
+[0.606s] Installing talker script to /home/can/ros2_hw/install/can_omercik/lib/can_omercik
+[0.606s] writing list of installed files to '/home/can/ros2_hw/build/can_omercik/install.log'
+[0.616s] Invoked command in '/home/can/ros2_hw/src/can_omercik' returned '0': PYTHONPATH=/home/can/ros2_hw/build/can_omercik/prefix_override:/home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/can_omercik build --build-base /home/can/ros2_hw/build/can_omercik/build install --record /home/can/ros2_hw/build/can_omercik/install.log --install-scripts $base/lib/can_omercik --single-version-externally-managed

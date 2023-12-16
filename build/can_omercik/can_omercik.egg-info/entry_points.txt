@@ -1,0 +1,4 @@
+[console_scripts]
+listener = can_omercik.subscriber_member_function:main
+talker = can_omercik.publisher_member_function:main
+

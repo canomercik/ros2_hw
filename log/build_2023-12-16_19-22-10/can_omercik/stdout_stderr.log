@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/can_omercik/can_omercik.egg-info
+writing ../../build/can_omercik/can_omercik.egg-info/PKG-INFO
+writing dependency_links to ../../build/can_omercik/can_omercik.egg-info/dependency_links.txt
+writing entry points to ../../build/can_omercik/can_omercik.egg-info/entry_points.txt
+writing requirements to ../../build/can_omercik/can_omercik.egg-info/requires.txt
+writing top-level names to ../../build/can_omercik/can_omercik.egg-info/top_level.txt
+writing manifest file '../../build/can_omercik/can_omercik.egg-info/SOURCES.txt'
+reading manifest file '../../build/can_omercik/can_omercik.egg-info/SOURCES.txt'
+writing manifest file '../../build/can_omercik/can_omercik.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/can/ros2_hw/build/can_omercik/build
+creating /home/can/ros2_hw/build/can_omercik/build/lib
+creating /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+copying can_omercik/__init__.py -> /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+copying can_omercik/publisher_member_function.py -> /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+copying can_omercik/subscriber_member_function.py -> /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik
+running install
+running install_lib
+creating /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+copying /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik/__init__.py -> /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+copying /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik/publisher_member_function.py -> /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+copying /home/can/ros2_hw/build/can_omercik/build/lib/can_omercik/subscriber_member_function.py -> /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik
+byte-compiling /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+byte-compiling /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+running install_data
+creating /home/can/ros2_hw/install/can_omercik/share/ament_index
+creating /home/can/ros2_hw/install/can_omercik/share/ament_index/resource_index
+creating /home/can/ros2_hw/install/can_omercik/share/ament_index/resource_index/packages
+copying resource/can_omercik -> /home/can/ros2_hw/install/can_omercik/share/ament_index/resource_index/packages
+copying package.xml -> /home/can/ros2_hw/install/can_omercik/share/can_omercik
+running install_egg_info
+Copying ../../build/can_omercik/can_omercik.egg-info to /home/can/ros2_hw/install/can_omercik/lib/python3.8/site-packages/can_omercik-0.0.0-py3.8.egg-info
+running install_scripts
+Installing listener script to /home/can/ros2_hw/install/can_omercik/lib/can_omercik
+Installing talker script to /home/can/ros2_hw/install/can_omercik/lib/can_omercik
+writing list of installed files to '/home/can/ros2_hw/build/can_omercik/install.log'
